@@ -1,0 +1,325 @@
+canonical_identifier: bkk:krp/KR6q0073/v1
+canonical_location: https://kanripo.org/bkk/KR6q0073/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 雲門匡真禪師廣錄
+  identifiers:
+    alt_id:
+    - T47n1988
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1988.xml
+    old_id: T47n1988
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit2
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 宮
+  label: 宮
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0073_000.yaml, hash: 'sha256:36785e8155c45c2f999cf6fbdbff3b0cc329180d2deeb2c48112138d6e23a782'}
+  - {seq: 1, filename: KR6q0073_001.yaml, hash: 'sha256:a1927af8bc344bb6c6ca9b38df48b4e912c18a222803b08c8a3bac5c2f662724'}
+  - {seq: 2, filename: KR6q0073_002.yaml, hash: 'sha256:1028353a62e62f2d81f45b0aa2023856284f26d2585dda25330726f783ba1685'}
+  - {seq: 3, filename: KR6q0073_003.yaml, hash: 'sha256:8b6334edd90749ed899ea1b454d526d9ce00e2831342866ba6311abc7be1e584'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6q0073_001.markers.yaml, hash: 'sha256:88e5548b751403d10eb4889c7b22bc0036754e053272ef3381916539ee470e1a'}
+  - {seq: 2, role: markers, filename: assets/KR6q0073_002.markers.yaml, hash: 'sha256:c97721f63ac4a405787b665a68974a554414204af6d9eb43c9b3dba7607d01db'}
+  - {seq: 3, role: markers, filename: assets/KR6q0073_003.markers.yaml, hash: 'sha256:4ad7123a33d66e819053061c8855486e435d544285ed478d9c457aadadb3a60b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0073_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 12366
+  label: 雲門匡真禪師廣錄卷上并序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0073_T_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 雲門匡真禪師廣錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0073_T_001-mulu-2
+    span:
+    - body
+    - 216
+    - 216
+  label: 對機三百二十則
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0073_T_001-mulu-3
+    span:
+    - body
+    - 11918
+    - 11918
+  label: 十二時歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0073_T_001-mulu-4
+    span:
+    - body
+    - 12024
+    - 12024
+  label: 偈頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0073_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 17932
+  label: 雲門匡真禪師廣錄卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0073_T_002-mulu-1
+    span:
+    - body
+    - 30
+    - 30
+  label: 室中語要
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0073_T_002-mulu-2
+    span:
+    - body
+    - 9911
+    - 9911
+  label: 垂示代語
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 13258
+  label: 雲門匡真禪師廣錄卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-mulu-1
+    span:
+    - body
+    - 36
+    - 36
+  label: 勘辨
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-mulu-2
+    span:
+    - body
+    - 8449
+    - 8449
+  label: 遊方遺錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-mulu-3
+    span:
+    - body
+    - 11126
+    - 11126
+  label: 大師遺表
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-mulu-4
+    span:
+    - body
+    - 11439
+    - 11439
+  label: 遺誡
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-mulu-5
+    span:
+    - body
+    - 11760
+    - 11760
+  label: 雲門山光泰禪院匡真大師行錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-mulu-6
+    span:
+    - body
+    - 12498
+    - 12498
+  label: 請疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-mulu-7
+    span:
+    - body
+    - 12912
+    - 12912
+  label: 頌雲門三句語
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-mulu-8
+    span:
+    - body
+    - 12935
+    - 12935
+  label: 函蓋乾坤
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-mulu-9
+    span:
+    - body
+    - 12959
+    - 12959
+  label: 截斷眾流
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-mulu-10
+    span:
+    - body
+    - 12983
+    - 12983
+  label: 隨波逐浪
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-mulu-11
+    span:
+    - body
+    - 13007
+    - 13007
+  label: 三句外別置一頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-mulu-12
+    span:
+    - body
+    - 13034
+    - 13034
+  label: 褒貶句
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-mulu-13
+    span:
+    - body
+    - 13057
+    - 13057
+  label: 辨親疎
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-mulu-14
+    span:
+    - body
+    - 13080
+    - 13080
+  label: 辨邪正
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-mulu-15
+    span:
+    - body
+    - 13103
+    - 13103
+  label: 通賓主
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-mulu-16
+    span:
+    - body
+    - 13126
+    - 13126
+  label: 擡薦商量
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-mulu-17
+    span:
+    - body
+    - 13150
+    - 13150
+  label: 提綱商量
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-mulu-18
+    span:
+    - body
+    - 13174
+    - 13174
+  label: 據實商量
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0073_T_003-mulu-19
+    span:
+    - body
+    - 13206
+    - 13206
+  label: 委曲商量
+  type: mulu
+  level: 1
+hash: sha256:9839eaff46c7d49ff1cff4554c3a84e7577dc79393d2c711a0166f6976911958
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
