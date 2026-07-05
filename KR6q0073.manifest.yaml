@@ -31,13 +31,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0073_000.yaml, hash: 'sha256:36785e8155c45c2f999cf6fbdbff3b0cc329180d2deeb2c48112138d6e23a782'}
-  - {seq: 1, filename: KR6q0073_001.yaml, hash: 'sha256:a1927af8bc344bb6c6ca9b38df48b4e912c18a222803b08c8a3bac5c2f662724'}
-  - {seq: 2, filename: KR6q0073_002.yaml, hash: 'sha256:1028353a62e62f2d81f45b0aa2023856284f26d2585dda25330726f783ba1685'}
-  - {seq: 3, filename: KR6q0073_003.yaml, hash: 'sha256:8b6334edd90749ed899ea1b454d526d9ce00e2831342866ba6311abc7be1e584'}
+  - {seq: 1, filename: KR6q0073_001.yaml, hash: 'sha256:32a483372452d330e7a124eebbf8cc128df836175f43d7f1ce19e0f7c2dcf755'}
+  - {seq: 2, filename: KR6q0073_002.yaml, hash: 'sha256:787fd0e1517bb25ed7e31ee67e6f77dbda999ea01f9379dd552cdfe75138695b'}
+  - {seq: 3, filename: KR6q0073_003.yaml, hash: 'sha256:e57b87d0d83e199f9d633e6627058df46c23f51e66ec50fae64a2375f4d01f40'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0073_001.markers.yaml, hash: 'sha256:88e5548b751403d10eb4889c7b22bc0036754e053272ef3381916539ee470e1a'}
-  - {seq: 2, role: markers, filename: assets/KR6q0073_002.markers.yaml, hash: 'sha256:c97721f63ac4a405787b665a68974a554414204af6d9eb43c9b3dba7607d01db'}
-  - {seq: 3, role: markers, filename: assets/KR6q0073_003.markers.yaml, hash: 'sha256:4ad7123a33d66e819053061c8855486e435d544285ed478d9c457aadadb3a60b'}
+  - {seq: 0, role: markers, filename: assets/KR6q0073_000.markers.yaml, hash: 'sha256:9fd095402a8d1112cbc3f6809a808bb3886c3f9fa7056ebd0fe469102cbb7885'}
+  - {seq: 1, role: markers, filename: assets/KR6q0073_001.markers.yaml, hash: 'sha256:ae944503aa1360aa1e6b748fe811053a4069cc75dcb47d4286b98791c33bfeed'}
+  - {seq: 2, role: markers, filename: assets/KR6q0073_002.markers.yaml, hash: 'sha256:59bb737e68925e74a42a7cc4a0f27589c1aca20a568c267c0084e7650384498b'}
+  - {seq: 3, role: markers, filename: assets/KR6q0073_003.markers.yaml, hash: 'sha256:d173d532cefd8a10483d22d5f7d3e48818b506bc2bbb704be4a7350556837062'}
 table_of_contents:
 - ref:
     seq: 1
@@ -319,7 +320,4 @@ table_of_contents:
   label: 委曲商量
   type: mulu
   level: 1
-hash: sha256:9839eaff46c7d49ff1cff4554c3a84e7577dc79393d2c711a0166f6976911958
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a6ab07ae44bc40f6ee54534d54edc2e0941181b812f288b796bdfdcc9621191f
